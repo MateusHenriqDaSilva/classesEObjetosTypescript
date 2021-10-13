@@ -5,6 +5,3 @@ projete e defina as regras de execução do programa, e então você pode chamá
 itens de outras partes do aplicativo.
 
 Como instanciar classes e criar objetos, como combinar dados e Métodos na classe para encapsular um conjunto completo de comportamentos, como o uso de interfaces na classe e definir os dados que podem ser passados ​​para a classe
-
-Menções de marca. Cooperação com outras 
-empresas e influenciadores 
